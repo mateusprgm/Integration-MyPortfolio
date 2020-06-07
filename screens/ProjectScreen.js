@@ -128,7 +128,7 @@ const styles = StyleSheet.create({
     paddingLeft: 16
   },
   negrito:{
-    fontWeight: "1000"
+    fontWeight: "900"
   },
   titleItem:{
     fontSize: 25
